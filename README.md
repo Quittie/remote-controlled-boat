@@ -1,5 +1,7 @@
 # A Remotely Operated Boat Equipped with a Set of Sensors
 
+![Boat during the pool test](media/pool-test.jpg)
+
 Bachelor’s engineering thesis, Poznań University of Technology, 2026.
 
 **Authors:** Piotr Trusiewicz and Michał Pietrzak  
@@ -84,8 +86,6 @@ The boat tended to turn left during forward motion and moved in a slight zigzag 
 The IMU data could not be used for a reliable acceleration analysis. The boat’s changing direction, movement on the water and an IMU that was not rigidly aligned with the boat axes affected the readings. The software system worked, although the Wi-Fi connection between the laptop and ESP module had some issues, possibly due to the water and the small antenna.
 
 These results show both that the boat could operate as a research platform and that its steering and sealing needed further development. Suggested next steps in the thesis include checking motor thrust symmetry and mass balance, improving the steering arrangement and antenna, and making the hull easier to open for maintenance.
-
-![Boat during the pool test](media/pool-test.jpg)
 
 ## Model files
 
